@@ -29,13 +29,32 @@ cybersec-cheatsheets/
 ```
 
 ## 🔥 What's Inside?
-- **SIEM**: Quick commands for Splunk, Sentinel, ArcSight.
-- **SOAR**: Playbooks & automation tips for FortiSOAR, Google Chronicle.
-- **Endpoint Security**: Cheat sheets for CrowdStrike, Carbon Black.
-- **Email Security**: Phishing analysis & FortiMail commands.
-- **Threat Hunting**: Hunting queries & IOCs.
-- **ISO 27001**: Compliance controls & security policies.
-- **Miscellaneous**: YARA rules, regex for security, and more!
+### 📌 SIEM
+- **Splunk**: Useful `SPL` queries for threat detection.
+- **Microsoft Sentinel**: `KQL` queries for log analysis.
+- **ArcSight**: `Active Channel` and correlation rule tips.
+
+### ⚡ SOAR
+- **Google Chronicle**: IOC hunting commands.
+- **FortiSOAR**: Automation playbooks and API usage.
+
+### 🛡️ Endpoint Security
+- **CrowdStrike**: Falcon commands and detection rules.
+- **Carbon Black**: Threat hunting techniques.
+
+### ✉️ Email Security
+- **Phishing Analysis**: Header analysis, IOC extraction.
+- **FortiMail**: Email security best practices.
+
+### 🔎 Threat Hunting
+- **Hunting Queries**: Indicators of Compromise (IOCs), YARA rules.
+
+### 📜 ISO 27001
+- **Compliance Controls**: Security policy templates and guidelines.
+
+### 🔧 Miscellaneous
+- **YARA Rules**: Writing rules for malware detection.
+- **Regex for Security**: Common regex patterns for log analysis.
 
 ## 📌 How to Use
 1. Navigate to the category you need.
